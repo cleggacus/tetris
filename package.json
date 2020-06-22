@@ -1,0 +1,16 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "rollup": "^2.7.2",
+    "rollup-plugin-terser": "^5.3.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "tslib": "^1.11.1",
+    "typescript": "^3.8.3"
+  }
+}
