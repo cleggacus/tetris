@@ -1,4 +1,4 @@
-# Titris Html Canvas
+# Tetris Html Canvas
 
 ### Tetris in ts using html canvas
 
